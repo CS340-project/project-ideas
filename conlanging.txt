@@ -1,0 +1,4 @@
+AUTHOR: Zack Strickland
+DESCRIPTION: An app that assists/automates "conlanging" by generating a sample of a fictional language, with a small grammar
+vocabulary, based on pre-programmed rules and user input. (Conlanging being the construction of languages, either for artistic
+purposes, like Klingon or Elvish or something, or for auxiliary purposes, like Esperanto)

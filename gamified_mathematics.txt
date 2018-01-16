@@ -1,0 +1,4 @@
+AUTHOR: Zack Strickland 
+DESCRIPTION: An app that gamifies mathematics, somewhwat in the way the Habitica does for user-specified, 
+(i.e an RPG wihich motivates the completion of certain real world taks). It could teach mathsat some level
+and encourage practice in the app with RPG-like rewards. 
