@@ -1,0 +1,4 @@
+AUTHOR: Frankie Betancourt
+DESCRIPTION: This one is a bit of a longshot, but I was thinking that we could make our own cryptocurrency. 
+There is a lot of information available, and most cryptos are open source so it would be easy to get an 
+idea of how to implement one. 

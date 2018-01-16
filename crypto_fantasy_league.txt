@@ -1,0 +1,5 @@
+AUTHOR: Frankie Betancourt
+DESCRIPTION: It's like fantasy football, but with cryptocurrency trading. If you don't know what fantasy football is, 
+basically people in a "league" choose real players, and are awarded points each week for how well players do in real life. 
+I was thinking of doing the same thing, but instead of picking players, people are given a certain amount of imaginary 
+money, and are able to trade crypocurrencies, and try to outperform eachother over a specified period of time. 

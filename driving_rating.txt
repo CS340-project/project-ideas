@@ -1,0 +1,5 @@
+AUTHOR: Frankie Betancourt
+DESCRIPTION: An app that tracks driving. It uses GPS data to "rate" your driving, to see how quickly
+you accelerate, brake, whether or not you're following the speed limit, etc. It could be used for 
+people to try and improve their driving habits, or for parents to track new drivers to see how well
+they are doing.
