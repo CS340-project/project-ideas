@@ -1,0 +1,6 @@
+AUTHOR: Frankie Betancourt
+DESCRIPTION: I got this idea from the list of ideas on the COSC340/news 
+repo. Rather than rehashing it here, you can read about it here: 
+http://www.ece.rutgers.edu/%7Emarsic/books/SE/projects/ParkingLot/
+Definetely a good project that would let us work with a little bit of
+hardware, and could be made more or less complex with ease. 

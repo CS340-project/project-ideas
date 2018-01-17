@@ -1,0 +1,10 @@
+AUTHOR: Frankie Betancourt
+DESCRIPTION: We could make a web application that can make/permute possible
+course schedules based on inputs of what classes the user is taking. I was
+thinking of using a webcrawler to search through classes, then use that 
+data to figure out possible schedules, figure out time conflicts, and 
+maybe we could even add some support for graph theory stuff to optimize
+schedules for finding classes that are close one another, etc. There's def-
+initely a lot of room for adding features here. Landen also mentioned
+another application that is used for organizing work, and this project
+could simply become a feature. 
