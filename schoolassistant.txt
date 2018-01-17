@@ -1,0 +1,5 @@
+  This project will create software that will have features such as a parking garage manager, 
+schedule builder, and meal selector (similar to urban spoon with on-campus dining). We could 
+work with raspberry pi's for the parking garage sensors and demonstrate our project's functionality. 
+This could be expanded with a number of different features that can assist students on campus 
+in a number of ways.
