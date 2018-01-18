@@ -1,2 +1,5 @@
 AUTHOR: Isaac Ige
-DESCRIPTION: A piece of software that uses the Facebook API (and maybe other social media?) to show friends with upcoming birthdays and their interests/liked pages. Use that information to generate ideas for gifts and search Amazon and other online stores for products. Allow people to manually add interests, filter results by price/sales, etc. There are probably other features that would be useful that we would discover along the way.
+DESCRIPTION: A piece of software that uses the Facebook API (and maybe other social media?) to show friends
+with upcoming birthdays and their interests/liked pages. Use that information to generate ideas for gifts
+and search Amazon and other online stores for products. Allow people to manually add interests, filter results
+by price/sales, etc. There are probably other features that would be useful that we would discover along the way.
