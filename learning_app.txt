@@ -1,7 +1,12 @@
 AUTHOR: Isaac Ige
 
 DESCRIPTION: A mobile app that provides the user with a quick video/article from a list of topics he/she is interested in
-in the hopes that they learn something new. This is aimed towards people that find themselves wasting too much time mindlessly scrolling through apps/social media on their phone and want to turn that into something more productive. So if for instance someone was
-interested in building vocabulary, pull up a random Word of The Day from dictionary.com or something similar. If the person is interested in sports, show them something from an article titled something along the lines of "Sports Facts You Didn't Know".
+in the hopes that they learn something new. This is aimed towards people that find themselves wasting too much time
+mindlessly scrolling through apps/social media on their phone and want to turn that into something more productive. 
+So if for instance someone was interested in building vocabulary, pull up a random Word of The Day from dictionary.com
+or something similar. If the person is interested in sports, show them something from an article titled something 
+along the lines of "Sports Facts You Didn't Know".
 
-If we can't find a way to get a good, consistent source for information on topics, let the users post and share things about topics and vote on them reddit-style, and the highest voted things are more likely to be shown to people who are also interested in that topic?
+If we can't find a way to get a good, consistent source for information on topics, let the users post
+and share things about topics and vote on them reddit-style, and the highest voted things are more likely to 
+be shown to people who are also interested in that topic?
